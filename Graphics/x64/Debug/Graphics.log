@@ -1,2 +1,4 @@
-﻿  Graphics.cpp
-  Graphics.vcxproj -> D:\Git\Graphics\x64\Debug\Graphics.exe
+﻿  Game.cpp
+  Graphics.cpp
+  Generating Code...
+  Graphics.vcxproj -> D:\Git\Graphics\Binaries\Graphics.exe

@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio IntelliSense 캐시 파일 무시
+*.ipch
