@@ -15,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|solutionrelative:Graphics\\Graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|D:\\Git\\Graphics\\Graphics\\Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|solutionrelative:Graphics\\Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|D:\\Git\\Graphics\\Graphics\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|solutionrelative:Graphics\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|D:\\Git\\Graphics\\Graphics\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|solutionrelative:Graphics\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|D:\\Git\\Graphics\\Graphics\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|solutionrelative:Graphics\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|D:\\Git\\Graphics\\Graphics\\Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|solutionrelative:Graphics\\Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97D4F845-B54C-4E98-A67E-84D5C02EF399}|Graphics\\Graphics.vcxproj|D:\\Git\\Graphics\\Graphics\\Struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,21 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Graphics.h",
-              "DocumentMoniker": "D:\\Git\\Graphics\\Graphics\\Graphics.h",
-              "RelativeDocumentMoniker": "Graphics\\Graphics.h",
-              "ToolTip": "D:\\Git\\Graphics\\Graphics\\Graphics.h",
-              "RelativeToolTip": "Graphics\\Graphics.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-30T20:09:25.688Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -69,7 +56,7 @@
               "RelativeDocumentMoniker": "Graphics\\Game.cpp",
               "ToolTip": "D:\\Git\\Graphics\\Graphics\\Game.cpp",
               "RelativeToolTip": "Graphics\\Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwC4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-30T20:01:45.919Z",
               "EditorCaption": ""
@@ -82,22 +69,9 @@
               "RelativeDocumentMoniker": "Graphics\\Game.h",
               "ToolTip": "D:\\Git\\Graphics\\Graphics\\Game.h",
               "RelativeToolTip": "Graphics\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-30T19:58:11.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Types.h",
-              "DocumentMoniker": "D:\\Git\\Graphics\\Graphics\\Types.h",
-              "RelativeDocumentMoniker": "Graphics\\Types.h",
-              "ToolTip": "D:\\Git\\Graphics\\Graphics\\Types.h",
-              "RelativeToolTip": "Graphics\\Types.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-30T19:18:42.588Z",
               "EditorCaption": ""
             },
             {
@@ -110,8 +84,7 @@
               "RelativeToolTip": "Graphics\\Struct.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-30T19:18:24.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T19:18:24.951Z"
             },
             {
               "$type": "Document",
@@ -121,9 +94,22 @@
               "RelativeDocumentMoniker": "Graphics\\pch.h",
               "ToolTip": "D:\\Git\\Graphics\\Graphics\\pch.h",
               "RelativeToolTip": "Graphics\\pch.h",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-30T04:11:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "D:\\Git\\Graphics\\Graphics\\pch.cpp",
+              "RelativeDocumentMoniker": "Graphics\\pch.cpp",
+              "ToolTip": "D:\\Git\\Graphics\\Graphics\\pch.cpp",
+              "RelativeToolTip": "Graphics\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T19:23:18.677Z",
               "EditorCaption": ""
             },
             {
@@ -141,6 +127,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Types.h",
+              "DocumentMoniker": "D:\\Git\\Graphics\\Graphics\\Types.h",
+              "RelativeDocumentMoniker": "Graphics\\Types.h",
+              "ToolTip": "D:\\Git\\Graphics\\Graphics\\Types.h",
+              "RelativeToolTip": "Graphics\\Types.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-30T19:18:42.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Graphics.h",
+              "DocumentMoniker": "D:\\Git\\Graphics\\Graphics\\Graphics.h",
+              "RelativeDocumentMoniker": "Graphics\\Graphics.h",
+              "ToolTip": "D:\\Git\\Graphics\\Graphics\\Graphics.h",
+              "RelativeToolTip": "Graphics\\Graphics.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-30T20:09:25.688Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Values.h",
               "DocumentMoniker": "D:\\Git\\Graphics\\Graphics\\Values.h",
@@ -149,21 +159,7 @@
               "RelativeToolTip": "Graphics\\Values.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-30T19:18:53.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "pch.cpp",
-              "DocumentMoniker": "D:\\Git\\Graphics\\Graphics\\pch.cpp",
-              "RelativeDocumentMoniker": "Graphics\\pch.cpp",
-              "ToolTip": "D:\\Git\\Graphics\\Graphics\\pch.cpp",
-              "RelativeToolTip": "Graphics\\pch.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-30T19:23:18.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T19:18:53.262Z"
             }
           ]
         }
