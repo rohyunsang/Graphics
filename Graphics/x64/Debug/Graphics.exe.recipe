@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Git\Graphics\x64\Debug\Graphics.exe</FullPath>
+      <FullPath>D:\Git\Graphics\Binaries\Graphics.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
