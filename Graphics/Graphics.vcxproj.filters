@@ -9,11 +9,14 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\99. Headers">
-      <UniqueIdentifier>{3b329133-7c41-4cab-ba41-e6df17f3b9c6}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\01. Main">
       <UniqueIdentifier>{77d71069-e38f-4328-bee5-9935a34691c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\98. Shaders">
+      <UniqueIdentifier>{028aeaba-e0d2-4183-8205-d3fdbefca9e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\99. Headers">
+      <UniqueIdentifier>{3b329133-7c41-4cab-ba41-e6df17f3b9c6}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\99. Headers\Andromeda">
       <UniqueIdentifier>{61a77bb4-4536-4bbe-b6dd-22ffb3c30c92}</UniqueIdentifier>
@@ -71,5 +74,10 @@
     <ClCompile Include="Game.cpp">
       <Filter>Source Files\01. Main</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Default.hlsl">
+      <Filter>Source Files\98. Shaders</Filter>
+    </FxCompile>
   </ItemGroup>
 </Project>

@@ -22,6 +22,7 @@ using namespace std;
 #include <DirectXMath.h>
 #include <DirectXTex/DirectXTex.h>
 #include <DirectXTex/DirectXTex.inl>
+#include <string>
 
 using namespace DirectX;
 using namespace Microsoft::WRL;
