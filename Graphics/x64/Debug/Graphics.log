@@ -1,2 +1,5 @@
-﻿  compilation object save succeeded; see D:\Git\Graphics\Binaries\Default.cso
+﻿  Game.cpp
+D:\Git\Graphics\Graphics\Game.cpp(61,44): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file '/Game.cpp')
+  
   Graphics.vcxproj -> D:\Git\Graphics\Binaries\Graphics.exe
