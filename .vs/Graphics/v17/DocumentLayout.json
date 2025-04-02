@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "Graphics\\Game.cpp",
               "ToolTip": "D:\\Git\\Graphics\\Graphics\\Game.cpp",
               "RelativeToolTip": "Graphics\\Game.cpp",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAD0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-30T20:01:45.919Z",
               "EditorCaption": ""
@@ -73,7 +73,7 @@
               "RelativeDocumentMoniker": "Graphics\\Game.h",
               "ToolTip": "D:\\Git\\Graphics\\Graphics\\Game.h",
               "RelativeToolTip": "Graphics\\Game.h",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAwwE0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-30T19:58:11.396Z",
               "EditorCaption": ""
@@ -88,8 +88,7 @@
               "RelativeToolTip": "Graphics\\Struct.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-30T19:18:24.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T19:18:24.951Z"
             },
             {
               "$type": "Document",
@@ -113,8 +112,7 @@
               "RelativeToolTip": "Graphics\\Graphics.cpp",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAJIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-30T04:01:16.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T04:01:16.508Z"
             },
             {
               "$type": "Document",
@@ -126,8 +124,7 @@
               "RelativeToolTip": "Graphics\\Default.hlsl",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-03-31T06:41:29.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T06:41:29.002Z"
             },
             {
               "$type": "Document",
