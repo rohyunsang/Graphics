@@ -21,6 +21,9 @@
     <Filter Include="Source Files\99. Headers\Andromeda">
       <UniqueIdentifier>{61a77bb4-4536-4bbe-b6dd-22ffb3c30c92}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\99. Headers\Utils">
+      <UniqueIdentifier>{28ea63ef-c037-4d14-a502-90f5a90dc96b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Graphics.h">
@@ -50,6 +53,9 @@
     <ClInclude Include="Game.h">
       <Filter>Source Files\01. Main</Filter>
     </ClInclude>
+    <ClInclude Include="SimpleMath.h">
+      <Filter>Source Files\99. Headers\Utils</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Graphics.rc">
@@ -74,10 +80,18 @@
     <ClCompile Include="Game.cpp">
       <Filter>Source Files\01. Main</Filter>
     </ClCompile>
+    <ClCompile Include="SimpleMath.cpp">
+      <Filter>Source Files\99. Headers\Utils</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <FxCompile Include="Default.hlsl">
       <Filter>Source Files\98. Shaders</Filter>
     </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SimpleMath.inl">
+      <Filter>Source Files\99. Headers\Utils</Filter>
+    </None>
   </ItemGroup>
 </Project>

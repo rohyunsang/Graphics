@@ -34,8 +34,21 @@ void Game::Init(HWND hwnd)
 
 void Game::Update()
 {
+	/*
 	_transformData.offset.x = 0.3f; 
 	_transformData.offset.y = 0.3f;
+	*/
+	_localPosition.x += 0.001f;
+
+	Matrix matScale       = Matrix::CreateScale(_localScale);
+	Matrix matRotation    = Matrix::CreateRotationX(_localRotation.x);
+	matRotation		 	 *= Matrix::CreateRotationX(_localRotation.y);
+	matRotation	 		 *= Matrix::CreateRotationX(_localRotation.z);
+
+	Matrix matTranslation = Matrix::CreateTranslation(_localPosition);
+
+	Matrix matWorld = matScale * matRotation * matTranslation; // SRT
+	_transformData.matWorld = matWorld;
 
 
 	D3D11_MAPPED_SUBRESOURCE subResource;
